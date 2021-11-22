@@ -1,6 +1,7 @@
 #folder to ignore
-/Resources/
 .DS_Store
+config.py
+Resources/
 
 
 # Byte-compiled / optimized / DLL files
